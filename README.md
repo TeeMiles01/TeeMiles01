@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 You are welcome to my Portfolio
 
-<!--
-**TeeMiles01/TeeMiles01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Adu Oluwatobiloba, and I am the Data Expert :blush:
 
-Here are some ideas to get you started:
+**Here are some ideas to get you started:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m a self Driven Data Analyst/Scientist/Engineer with a string background in Mathematics and AI.
+- 🤔 I’m interested in data science, Machine Learning, AI Agents particularly analytics and its application to solving business problems.
+- 👯 I’m looking to collaborate on everything data projects, Let's talk data.
+- 💬 I have a great grasp of the SQL of different flavours (including MySQl, Postgresql, BigQuery, Python, R .
+- 🌱 I build visualizations that are not only stunning but most importantly drive data driven decisions for organizations.
+•	I developed machine learning and deep learning models for various business applications
+•	I translate business data requirements into technical requirements for development purposes
+- 📫 How to reach me:
+- [Email:](topmarketer36@gmail.com)
+
